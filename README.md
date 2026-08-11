@@ -114,7 +114,7 @@ python3 --version
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DarkSAST.git
+git clone https://github.com/dark-ninja10/DarkSAST.git
 ```
 
 Enter the directory:
